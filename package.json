@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-yandex",
+  "version": "1.0.0",
+  "description": "Yandex style guide for eslint",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekaragodin/eslint-config-yandex"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "yandex",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Evgeniy Karagodin (http://ekaragodin.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekaragodin/eslint-config-yandex/issues"
+  },
+  "homepage": "https://github.com/ekaragodin/eslint-config-yandex",
+  "dependencies": {
+    "eslint": "*"
+  }
+}
