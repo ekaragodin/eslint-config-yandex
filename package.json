@@ -19,7 +19,8 @@
     "url": "https://github.com/ekaragodin/eslint-config-yandex/issues"
   },
   "homepage": "https://github.com/ekaragodin/eslint-config-yandex",
+  "main": "index.js",
   "dependencies": {
-    "eslint": "*"
+    "file-reader": "^1.0.0"
   }
 }
