@@ -1,3 +1,3 @@
-var read = require('file-reader');
+var read = require('read-yaml');
 
-module.exports = read('.eslintrc');
+module.exports = read.sync('.eslintrc');

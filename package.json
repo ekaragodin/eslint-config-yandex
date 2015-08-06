@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-yandex",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Yandex style guide for eslint",
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/ekaragodin/eslint-config-yandex",
   "main": "index.js",
   "dependencies": {
-    "file-reader": "^1.0.0"
+    "read-yaml": "^1.0.0"
   }
 }
