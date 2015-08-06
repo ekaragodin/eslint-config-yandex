@@ -1,3 +1,3 @@
 var read = require('read-yaml');
 
-module.exports = read.sync('.eslintrc');
+module.exports = read.sync(__dirname + '.eslintrc');
