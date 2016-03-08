@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-yandex",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Yandex style guide for eslint",
   "repository": {
     "type": "git",

@@ -62,9 +62,10 @@
       - 2
       - anonymous: always
         named: never
-    space-after-keywords:
+    keyword-spacing:
       - 2
-      - always
+      - before: true
+        after: true
     space-in-parens:
       - 2
       - never
